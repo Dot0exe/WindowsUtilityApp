@@ -4,9 +4,8 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Windows.Forms;
-using WindowsUtilityApp;
 
-namespace YourNamespace
+namespace WindowsUtilityApp
 {
     public partial class MainForm : Form
     {

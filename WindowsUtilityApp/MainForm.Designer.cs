@@ -1,4 +1,4 @@
-﻿namespace YourNamespace
+﻿namespace WindowsUtilityApp
 {
     partial class MainForm
     {
